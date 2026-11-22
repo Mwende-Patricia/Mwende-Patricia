@@ -1,49 +1,70 @@
-# Hi 👋, I'm Patricia Mwende
+<h1 align="center">Hi 👋, I'm Patricia Mwende Mutuku</h1>
+<h3 align="center">Customer Experience and Data Analysis</h3>
 
-### Customer Experience and Data Analysis
+<p align="center">
+BSc Operations Research (JKUAT) · Nairobi, Kenya<br>
+I combine customer support experience with data skills to spot patterns and turn them into better decisions.
+</p>
 
-- 🎓 BSc Operations Research, Jomo Kenyatta University of Agriculture and Technology, 2024
-- 💼 Customer Experience Representative at CCI Kenya, supporting customers by phone and email across multiple acocunts
+<p align="center">
+<a href="https://www.linkedin.com/in/patricia-mwende"><img src="https://img.shields.io/badge/LinkedIn-Patricia%20Mwende-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:mwendepatricia18@gmail.com"><img src="https://img.shields.io/badge/Email-Patricia-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+---
+
+## 👩🏽‍💻 About me
+
+- 🎓 BSc Operations Research, Jomo Kenyatta University of Agriculture and Technology (JKUAT), 2024
+- 💼 Customer Experience Representative at CCI Kenya, supporting customers by phone and email
 - 🏛️ Intern at the Kenya National Bureau of Statistics (KNBS), Statistical Coordination & Methods Directorate, May - Aug 2023
-- Supported data validation and quality assurance work on statistical datasets
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Patricia%20Mwende-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricia-mwende)
-[![Email](https://img.shields.io/badge/Email-Patricia-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwendepatricia18@gmail.com)
+  - Supported data validation and quality assurance work on statistical datasets
 
 ---
 
-## About me
+## 🔍 Interests
 
-- 🎓 BSc Operations Research, Statistics & Finance, JKUAT (2024)
-- 💼 Customer Experience Representative at CCI Kenya
-- 🔍 Data analyst using python
+- 📊 Statistics and data analysis
+- 🔮 Predictive modelling
+- 📈 Dashboards and data visualisation
+- 💰 Financial data analysis
 
 ---
 
-## Featured projects
+## 🚀 Featured projects
 
 | Project | What it does | Tools |
 | --- | --- | --- |
 | 🎧 [Customer Support Ticket Analysis](https://github.com/Mwende-Patricia/customer-support-ticket-analysis) | Explores ticket trends, issue types, operational performance and customer satisfaction. | Power BI |
+<!-- Add this row once the repository is uploaded:
+| 📦 [Predicting Lead Times](link-to-repo) | Random Forest model that predicts supply chain lead times. R-squared of 81.2% across 44 variables. | Python, scikit-learn, Pandas |
+-->
 
 ---
 
-## Tech stack
+## 🛠️ Tech stack
 
 **Languages:** Python · SQL · R
+
 **Data and visualisation:** Power BI · Excel · Pandas · NumPy · scikit-learn
 
-<!--
-**Mwende-Patricia/Mwende-Patricia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Customer support platforms:** Salesforce · SAP · NICE CXone · Unified Service Desk
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+
+- Data Analysis Certificate
+- Data Science Certificate
+
+---
+
+## 🌱 Currently learning
+
+- SQL for data analysis
+- Python for data analysis and visualisation
+- Power BI dashboards
+
+---
+
+<p align="center">Open to customer experience and data analysis roles. Feel free to reach out on LinkedIn or by email.</p>
