@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Patricia Mwende Mutuku</h1>
+<h1 align="center">Hi 👋, I'm Patricia Mwende</h1>
 <h3 align="center">Customer Experience and Data Analysis</h3>
 
 <p align="center">
