@@ -1,9 +1,11 @@
-# Hi 👋, I'm Patricia Mwende Mutuku
+# Hi 👋, I'm Patricia Mwende
 
 ### Customer Experience and Data Analysis
 
-BSc Operations Research, Statistics & Finance (JKUAT).
-I combine customer support experience with data skills to spot patterns and turn them into better decisions.
+- 🎓 BSc Operations Research, Jomo Kenyatta University of Agriculture and Technology, 2024
+- 💼 Customer Experience Representative at CCI Kenya, supporting customers by phone and email across multiple acocunts
+- 🏛️ Intern at the Kenya National Bureau of Statistics (KNBS), Statistical Coordination & Methods Directorate, May - Aug 2023
+- Supported data validation and quality assurance work on statistical datasets
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Patricia%20Mwende-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricia-mwende)
 [![Email](https://img.shields.io/badge/Email-Patricia-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mwendepatricia18@gmail.com)
@@ -14,6 +16,7 @@ I combine customer support experience with data skills to spot patterns and turn
 
 - 🎓 BSc Operations Research, Statistics & Finance, JKUAT (2024)
 - 💼 Customer Experience Representative at CCI Kenya
+- 🔍 Data analyst using python
 
 ---
 
