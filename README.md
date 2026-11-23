@@ -36,9 +36,7 @@ I combine customer support experience with data skills to spot patterns and turn
 | Project | What it does | Tools |
 | --- | --- | --- |
 | 🎧 [Customer Support Ticket Analysis](https://github.com/Mwende-Patricia/customer-support-ticket-analysis) | Explores ticket trends, issue types, operational performance and customer satisfaction. | Power BI |
-<!-- Add this row once the repository is uploaded:
-| 📦 [Predicting Lead Times](link-to-repo) | Random Forest model that predicts supply chain lead times. R-squared of 81.2% across 44 variables. | Python, scikit-learn, Pandas |
--->
+| 📦 [Predicting Lead Times](https://github.com/Mwende-Patricia/supply-chain-lead-time-prediction) | Random Forest model that predicts supply chain lead times. R² of 0.81 on test data. | Python, Scikit-learn, Pandas |
 
 ---
 
